@@ -421,6 +421,13 @@
         "onoff",
         "dim"
       ],
+      "capabilitiesOptions": {
+        "dim": {
+          "opts": {
+            "duration": true
+               }
+             }
+          },
       "images": {
         "large": "/drivers/ACD-200/assets/images/large.png",
         "small": "/drivers/ACD-200/assets/images/small.png"
@@ -805,6 +812,13 @@
         "onoff",
         "dim"
       ],
+      "capabilitiesOptions": {
+        "dim": {
+          "opts": {
+            "duration": true
+               }
+             }
+          },
       "images": {
         "large": "/drivers/ACM-100/assets/images/large.jpg",
         "small": "/drivers/ACM-100/assets/images/small.jpg"
