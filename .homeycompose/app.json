@@ -1,10 +1,10 @@
 {
-  "id": "nl.klikaanklikuit",
+  "id": "pd.nl.klikaanklikuit",
   "version": "7.0.3",
   "compatibility": ">=5.0.0",
   "sdk": 3,
   "name": {
-    "en": "KlikAanKlikUit"
+    "en": "KlikAanKlikUit-PD"
   },
   "description": {
     "en": "Remote control, affordable and easy",
